@@ -1,0 +1,3 @@
+[submodule "asistapp-iglesia"]
+	path = asistapp-iglesia
+	url = https://github.com/Juanibelzki/asistapp-iglesia.git
